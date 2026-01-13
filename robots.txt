@@ -7,7 +7,7 @@ Disallow:
 # Allow all crawlers to access everything. If you need to block paths, add them above.
 
 # Sitemap location (replace with actual domain)
-Sitemap: https://garvit-paliwal.github.io/shivparivarfoods/sitemap.xml
+Sitemap: https://garvit-paliwal.github.io/shivparivaarfoods/sitemap.xml
 
 # Optional: add a crawl delay for aggressive crawlers
 # Crawl-delay: 10

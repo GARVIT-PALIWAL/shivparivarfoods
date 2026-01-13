@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://garvit-paliwal.github.io/shivparivarfoods/</loc>
+    <loc>https://garvit-paliwal.github.io/shivparivaarfoods/</loc>
     <image:image>
-      <image:loc>https://garvit-paliwal.github.io/shivparivarfoods/images/og-index.svg</image:loc>
+      <image:loc>https://garvit-paliwal.github.io/shivparivaarfoods/images/og-index.svg</image:loc>
     </image:image>
     <lastmod>2026-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://garvit-paliwal.github.io/shivparivarfoods/index.html</loc>
+    <loc>https://garvit-paliwal.github.io/shivparivaarfoods/index.html</loc>
     <lastmod>2026-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.90</priority>
   </url>
   <url>
-    <loc>https://garvit-paliwal.github.io/shivparivarfoods/products.html</loc>
+    <loc>https://garvit-paliwal.github.io/shivparivaarfoods/products.html</loc>
     <image:image>
-      <image:loc>https://garvit-paliwal.github.io/shivparivarfoods/images/og-index.svg</image:loc>
+      <image:loc>https://garvit-paliwal.github.io/shivparivaarfoods/images/og-index.svg</image:loc>
     </image:image>
     <lastmod>2026-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://garvit-paliwal.github.io/shivparivarfoods/cleer.html</loc>
+    <loc>https://garvit-paliwal.github.io/shivparivaarfoods/cleer.html</loc>
     <image:image>
-      <image:loc>https://garvit-paliwal.github.io/shivparivarfoods/images/og-cleer.svg</image:loc>
+      <image:loc>https://garvit-paliwal.github.io/shivparivaarfoods/images/og-cleer.svg</image:loc>
     </image:image>
     <lastmod>2026-01-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://garvit-paliwal.github.io/shivparivarfoods/rapid.html</loc>
+    <loc>https://garvit-paliwal.github.io/shivparivaarfoods/rapid.html</loc>
     <image:image>
-      <image:loc>https://garvit-paliwal.github.io/shivparivarfoods/images/og-rapid.svg</image:loc>
+      <image:loc>https://garvit-paliwal.github.io/shivparivaarfoods/images/og-rapid.svg</image:loc>
     </image:image>
     <lastmod>2026-01-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://garvit-paliwal.github.io/shivparivarfoods/clearquench.html</loc>
+    <loc>https://garvit-paliwal.github.io/shivparivaarfoods/clearquench.html</loc>
     <image:image>
-      <image:loc>https://garvit-paliwal.github.io/shivparivarfoods/images/og-clearquench.svg</image:loc>
+      <image:loc>https://garvit-paliwal.github.io/shivparivaarfoods/images/og-clearquench.svg</image:loc>
     </image:image>
     <lastmod>2026-01-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://garvit-paliwal.github.io/shivparivarfoods/contacts.html</loc>
+    <loc>https://garvit-paliwal.github.io/shivparivaarfoods/contacts.html</loc>
     <lastmod>2026-01-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.50</priority>
   </url>
   <url>
-    <loc>https://garvit-paliwal.github.io/shivparivarfoods/about.html</loc>
+    <loc>https://garvit-paliwal.github.io/shivparivaarfoods/about.html</loc>
     <lastmod>2026-01-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.50</priority>
