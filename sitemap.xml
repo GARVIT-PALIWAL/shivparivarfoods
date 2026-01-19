@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://garvit-paliwal.github.io/shivparivaarfoods/</loc>
@@ -63,4 +63,74 @@
     <changefreq>monthly</changefreq>
     <priority>0.50</priority>
   </url>
+</urlset> -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://www.shivparivaarfoods.in/</loc>
+    <image:image>
+      <image:loc>https://www.shivparivaarfoods.in/images/logo.png</image:loc>
+    </image:image>
+    <lastmod>2026-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://www.shivparivaarfoods.in/products.html</loc>
+    <image:image>
+      <image:loc>https://www.shivparivaarfoods.in/images/og-index.svg</image:loc>
+    </image:image>
+    <lastmod>2026-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.shivparivaarfoods.in/cleer.html</loc>
+    <image:image>
+      <image:loc>https://www.shivparivaarfoods.in/images/og-cleer.svg</image:loc>
+    </image:image>
+    <lastmod>2026-01-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.shivparivaarfoods.in/rapid.html</loc>
+    <image:image>
+      <image:loc>https://www.shivparivaarfoods.in/images/og-rapid.svg</image:loc>
+    </image:image>
+    <lastmod>2026-01-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.shivparivaarfoods.in/clearquench.html</loc>
+    <image:image>
+      <image:loc>https://www.shivparivaarfoods.in/images/og-clearquench.svg</image:loc>
+    </image:image>
+    <lastmod>2026-01-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.shivparivaarfoods.in/about.html</loc>
+    <lastmod>2026-01-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.shivparivaarfoods.in/contacts.html</loc>
+    <lastmod>2026-01-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
+  </url>
+
 </urlset>
